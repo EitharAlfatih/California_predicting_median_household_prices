@@ -1,4 +1,3 @@
-# DSCI 522 - Group 312
 
 ## About
 
